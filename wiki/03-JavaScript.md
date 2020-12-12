@@ -4,15 +4,15 @@
 *  🔖 **DOM**
 *  🔖 **CBA**
 
-L'écoystème de JavaScript est très riche, nous allons observer les librairies et frameworks ayant une base utilisateur solide.
+L’écosystème de JavaScript est très riche, nous allons observer les librairies et frameworks ayant une base utilisateur solide.
 
 ___
 
 ## 📑 Technologies
 
-Historiquement le package manager du langage est **npm**. Il en existe d'autres, qui ont disparus depuis ou qui sont encore d'actualité. Ce package manager est distribué avec la plateform logicielle **node.js** afin qu'il utilise pour performer ses installations.
+Historiquement le package manager du langage est **npm**. Il en existe d'autres, qui ont disparus depuis ou qui sont encore d'actualité. Ce package manager est distribué avec la plateforme logicielle **node.js** afin qu'il utilise pour performer ses installations.
 
-![image](./resources/node.png)
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/node.png)
 
 Ce package manager permet sur une simple commande de télécharger un package dans un dossier `node_modules` à la racine du projet.
 
@@ -20,7 +20,7 @@ Ce package manager permet sur une simple commande de télécharger un package da
 npm install <package-name>
 ```
 
-L'ecosystème et les paradigmes de développement sur JavaScript évulent avec le temps, l'on peut parler de l'avant et de l'après 2015.
+L'écosystème et les paradigmes de développement sur JavaScript évoluent avec le temps, l'on peut parler de l'avant et de l'après 2015.
 
 
 ___
@@ -29,36 +29,36 @@ ___
 
 La principale activité de JavaScript orienté front-end est de produire un affichage et de de dynamiser le **Document Object Model**. Historiquement, de nombreuses librairies facilitant la manipulation du DOM ont marqué le langage.
 
-![image](./resources/jquery.png)
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/jquery.png)
 
 Même s'il est évident que la bibliothèque perd progressivement son terrain, elle est toujours d'actualité.
 
 De nombreux sites Web l'utilisent. Selon BuiltWith, JQuery est toujours utilisé sur 77% des meilleurs 1 million de sites Web. Donc, si vous rencontrez un jour travailler sur un tel site Web, vous devriez connaître la bibliothèque.
 
-Ces jours-ci, Javascript a évolué. Les navigateurs sont livrés avec un bon support pour ses API. Ainsi, les choses autrefois facilitées par JQuery sont désormais tout à fait possibles sans lui. Pourquoi ajouter une dépendance indésirable qui ne fait qu'aider à gonfler votre application?
+Ces jours-ci, JavaScript a évolué. Les navigateurs sont livrés avec un bon support pour ses API. Ainsi, les choses autrefois facilitées par JQuery sont désormais tout à fait possibles sans lui. Pourquoi ajouter une dépendance indésirable qui ne fait qu'aider à gonfler votre application?
 
 
-![image](./resources/vanilla.png)
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vanilla.png)
 
 Vanilla JavaScript est devenu populaire en raison de la prédominance des bibliothèques JavaScript externes telles que jQuery. Il ne fallut pas longtemps avant que «l'écosystème» JavaScript ne soit inondé de plugins et d'outils populaires qui reposaient sur des bibliothèques externes.
 
-jQuery en est un exemple parfait. jQuery est une excellente bibliothèque qui peut vous aider à simplifier certaines opérations. Cela peut également vous faire économiser beaucoup de temps et d'efforts. En outre, la bibliothèque a aidé à résoudre de nombreux problèmes de navigateurs croisés qui existaient à l'époque où Internet Explorer était encore largement utilisé. Mais ce n'est plus le cas mainteant.
+jQuery en est un exemple parfait. jQuery est une excellente bibliothèque qui peut vous aider à simplifier certaines opérations. Cela peut également vous faire économiser beaucoup de temps et d'efforts. En outre, la bibliothèque a aidé à résoudre de nombreux problèmes de navigateurs croisés qui existaient à l'époque où Internet Explorer était encore largement utilisé. Mais ce n'est plus le cas maintenant.
 
 ___
 
-Ne pas respecter le principe d'encapsulation d'un composant et ne pas mettre en relation un état et son formattage ne permet pas de faire grandire une solution sereinement: qui veut faire du DOM?
+Ne pas respecter le principe d'encapsulation d'un composant et ne pas mettre en relation un état et son formatage ne permet pas de faire grandir une solution sereinement: qui veut faire du DOM?
 
 ___
 
 ## 📑 CBA Frameworks
 
-Aux alentours de 2015 et la standardisation des Web Components, les frameworks majeurs que nous connaissons aujourd'hui illustrent la maturité de ce composite sur javascript et utilisent une **component based architecture**.
+Aux alentours de 2015 et la standardisation des Web Components, les frameworks majeurs que nous connaissons aujourd'hui illustrent la maturité de ce composite sur JavaScript et utilisent une **component based architecture**.
 
 ## 2015-2020
 
 *JavaScript Frameworks*
 
-## ![image](./resources/ranking.png)
+## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/ranking.png)
 
 ___
 
@@ -66,7 +66,7 @@ Définissons les principaux frameworks historiques toujours d'actualité.
 
 ___
 
-## ![image](./resources/ember.png)
+## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/ember.png)
 
 ### 2011
 
@@ -86,13 +86,13 @@ Le **MVC** est remplacé par un modèle de type modèle-route-**composant** et u
 
 ___
 
-## ![image](./resources/react.png)
+## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
 
 ### 2013
 
-React est créé par Jordan Walke, un ingénieur au sein de la société Facebook. Le but principal de cette bibliothèque est de créer de vues, via la création de **composants** dépendant d'un **état** et générant une renduà chaque changement d'état. 
+React est créé par Jordan Walke, un ingénieur au sein de la société Facebook. Le but principal de cette bibliothèque est de créer de vues, via la création de **composants** dépendant d'un **état** et générant une rendu à chaque changement d'état. 
 
- Pour faciliter l'écriture de la vue, l'équipe initiale chez Facebook a développé un langage, **JSX**, qui permet de générer des objets Javascript avec une notation similaire à XML. La librairie est utilisée par:
+ Pour faciliter l'écriture de la vue, l'équipe initiale chez Facebook a développé un langage, **JSX**, qui permet de générer des objets JavaScript avec une notation similaire à XML. La librairie est utilisée par:
 
 * Netflix
 * Yahoo5
@@ -105,7 +105,7 @@ React est créé par Jordan Walke, un ingénieur au sein de la société Faceboo
 
 ___
 
-![image](./resources/vue.png)
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue.png)
 
 ### 2014
 
@@ -119,7 +119,7 @@ Vue présente une **architecture progressivement adoptable** qui se concentre su
 
 ___
 
-![image](./resources/angular.png)
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/angular.png)
 
 ### 2009
 
@@ -143,10 +143,12 @@ Il utilise une hiérarchie de **composants** comme principale caractéristique a
 
 ___
 
-## Opignions
+## Opinions
 
-L'on remarque que l'adoption de REACT est imédiate tout comme l'interet porté à la librairie, contairement à  d'angular dont 35% des utilisateurs ne souhaitent pas continuer son utilisation.
+L'on remarque que l'adoption de REACT est immédiate tout comme l’intérêt porté à la librairie, contrairement à  Angular dont 35% des utilisateurs ne souhaitent pas continuer son utilisation.
 
-## ![image](./resources/interest.png)
+## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/interest.png)
+
+___
 
 > Nous observerons en détail la stabilité de ces frameworks.
