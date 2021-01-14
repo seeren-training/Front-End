@@ -2,7 +2,7 @@
 
 ## Durée
 
-7 heures.
+7 heures
 
 ## Public concerné
 
