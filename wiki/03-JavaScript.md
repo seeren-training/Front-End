@@ -54,25 +54,21 @@ ___
 
 Aux alentours de 2015 et la standardisation des Web Components, les frameworks majeurs que nous connaissons aujourd'hui illustrent la maturité de ce composite sur JavaScript et utilisent une **component based architecture**.
 
-## 2015-2020
+### 2015-2020
 
 *JavaScript Frameworks*
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/ranking.png)
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/ranking.png)
 
-___
+### Ember
 
-Définissons les principaux frameworks historiques toujours d'actualité.
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/ember.png)
 
-___
-
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/ember.png)
-
-### 2011
+#### 2011
 
 Le framework a été créé par Yehuda Katz, un membre de jQuery, Ruby on Rails. Il utilise le composite **MVC**.
 
-### 2018
+#### 2018
 
 Le **MVC** est remplacé par un modèle de type modèle-route-**composant** et une architecture basée su les composants. Le framework est utilisé par:
 
@@ -84,11 +80,11 @@ Le **MVC** est remplacé par un modèle de type modèle-route-**composant** et u
 * Apple 
 * NBC News 
 
-___
+### React
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
 
-### 2013
+#### 2013
 
 React est créé par Jordan Walke, un ingénieur au sein de la société Facebook. Le but principal de cette bibliothèque est de créer de vues, via la création de **composants** dépendant d'un **état** et générant une rendu à chaque changement d'état. 
 
@@ -103,11 +99,12 @@ React est créé par Jordan Walke, un ingénieur au sein de la société Faceboo
 * Instagram
 * WhatsApp
 
-___
+
+### Vue 
 
 ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue.png)
 
-### 2014
+#### 2014
 
 Vue a été créée par Evan You après avoir travaillé pour Google en utilisant AngularJS dans un certain nombre de projets
 
@@ -117,15 +114,15 @@ Vue présente une **architecture progressivement adoptable** qui se concentre su
 * Alibaba
 * GitLab
 
-___
+### Angular
 
 ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/angular.png)
 
-### 2009
+#### 2009
 
 AngularJS est fondé sur l'idée que la programmation déclarative doit être utilisée pour construire les interfaces utilisateurs et les composants logiciels de câblage, tandis que la programmation impérative excelle pour exprimer la logique métier. Il suit le patron d'architecture **MVC**
 
-### 2016
+#### 2016
 
 Angular est un framework côté client, open source, basé sur **TypeScript**, supportant le JavaScript et co-dirigé par l'équipe du projet « Angular » à Google et par une communauté de particuliers et de sociétés.
 
@@ -141,14 +138,11 @@ Il utilise une hiérarchie de **composants** comme principale caractéristique a
 * PayPal
 * Samsung
 
-___
 
-## Opinions
+### Opinions
 
 L'on remarque que l'adoption de REACT est immédiate tout comme l’intérêt porté à la librairie, contrairement à  Angular dont 35% des utilisateurs ne souhaitent pas continuer son utilisation.
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/interest.png)
-
-___
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/interest.png)
 
 > Nous observerons en détail la stabilité de ces frameworks.

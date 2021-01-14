@@ -6,9 +6,11 @@
 
 ___
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
+## 📑 React
 
-📑 Créez des composants autonomes qui maintiennent leur propre état, puis assemblez-les pour créer des interfaces utilisateurs complexes.
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
+
+Créez des composants autonomes qui maintiennent leur propre état, puis assemblez-les pour créer des interfaces utilisateurs complexes.
 
 ### 🏷️ **Utilisation**
 
@@ -85,9 +87,11 @@ ___
 
 ___
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue.png)
+## 📑 Vue
 
-📑 À la différence des autres frameworks monolithiques, Vue a été conçu et pensé pour pouvoir être adopté de manière incrémentale. Le cœur de la bibliothèque se concentre uniquement sur la partie vue. D’un autre côté, Vue est tout à fait capable de faire tourner des applications web monopages quand il est couplé avec des outils modernes et des bibliothèques complémentaires.
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue.png)
+
+À la différence des autres frameworks monolithiques, Vue a été conçu et pensé pour pouvoir être adopté de manière incrémentale. Le cœur de la bibliothèque se concentre uniquement sur la partie vue. D’un autre côté, Vue est tout à fait capable de faire tourner des applications web monopages quand il est couplé avec des outils modernes et des bibliothèques complémentaires.
 
 ### 🏷️ **Utilisation**
 
@@ -155,9 +159,11 @@ Nous pouvons constater qu'il y a des changements syntaxiques majeurs d'une versi
 
 ___
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/angular.png)
+## 📑 Angular
 
-📑 À la différence des autres frameworks monolithiques, Vue a été conçu et pensé pour pouvoir être adopté de manière incrémentale. Le cœur de la bibliothèque se concentre uniquement sur la partie vue. D’un autre côté, Vue est tout à fait capable de faire tourner des applications web monopages quand il est couplé avec des outils modernes et des bibliothèques complémentaires.
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/angular.png)
+
+À la différence des autres frameworks monolithiques, Vue a été conçu et pensé pour pouvoir être adopté de manière incrémentale. Le cœur de la bibliothèque se concentre uniquement sur la partie vue. D’un autre côté, Vue est tout à fait capable de faire tourner des applications web monopages quand il est couplé avec des outils modernes et des bibliothèques complémentaires.
 
 ### 🏷️ **Utilisation**
 

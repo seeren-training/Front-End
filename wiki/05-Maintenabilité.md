@@ -8,7 +8,9 @@
 
 ___
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
+## 📑 React
+
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
 
 ### 🏷️ **Guide**
 
@@ -34,7 +36,9 @@ React propose de rendre les vues, mais quand celles ci doivent partager leur don
 
 ___
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue.png)
+## 📑 Vue
+
+[image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue.png)
 
 ### 🏷️ **Guide**
 
@@ -63,9 +67,11 @@ Chaque projet peut ainsi avoir une stack différente.
 
 ___
 
-## ![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/angular.png)
+## 📑 Angular
 
-📑 Existe-t-il une méthode recommandée pour structurer les projets Angular?
+![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/angular.png)
+
+Existe-t-il une méthode recommandée pour structurer les projets Angular?
 
 ### 🏷️ **Guide**
 
