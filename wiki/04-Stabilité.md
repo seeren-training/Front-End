@@ -8,8 +8,6 @@ ___
 
 ## 📑 React
 
-![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
-
 Créez des composants autonomes qui maintiennent leur propre état, puis assemblez-les pour créer des interfaces utilisateurs complexes.
 
 ### 🏷️ **Utilisation**
@@ -18,13 +16,13 @@ Toute personne ayant une connaissance préalable de base en programmation peut f
 
 Les composants React implémentent une méthode render() qui prend des données en entrée et retourne ce qui doit être affiché. Cet exemple utilise une syntaxe qui ressemble à du XML et qu’on appelle JSX. Les données passées au composant sont accessibles dans render() via this.props.
 
-*Template*
+* Template
 
 ```html
 <div id="hello-example"></div>
 ```
 
-*Component*
+* Component
 
 ```js
 class HelloMessage extends React.Component {
@@ -54,7 +52,7 @@ Le framework propose les fonctionnalité suivantes:
 * Functional components
 * Basic state management with setState and Context API
 
-> 🔗 react-api: https://fr.reactjs.org/docs/react-api.html
+[React-api](https://fr.reactjs.org/docs/react-api.html)
 
 Pour le reste il faudra installer des packages additionnels.
 
@@ -62,18 +60,19 @@ Pour le reste il faudra installer des packages additionnels.
 
 La première **version stable est la 15.0.0** publiée le 07 Avril 2016. Précédemment il n'y avait que des versions candidates, dont la première était publiée en 2011.
 
-Versions:
-* 🔗 Npm: https://www.npmjs.com/package/react
-* 🔗 Github: https://github.com/facebook/react/releases
-* 🔗 Site officiel: https://fr.reactjs.org/versions/
+#### Versions
+
+[Npm](https://www.npmjs.com/package/react)
+
+[Github](https://github.com/facebook/react/releases)
+
+[Site officiel](https://fr.reactjs.org/versions/)
 
 ### 🏷️ **Roadmap**
 
 React publie les changements pour chaque version dans les Changelog associés et publie sur son blog les feuilles de routes des développements ainsi que le récapitulatif des version candidates.
 
-* React v17.0 RC: https://fr.reactjs.org/blog/2020/08/10/react-v17-rc.html
-* React v16.13.0: https://fr.reactjs.org/blog/2020/02/26/react-v16.13.0.html
-* React v16.9.0: https://fr.reactjs.org/blog/2019/08/08/react-v16.9.0.html
+[React v17.0 RC](https://fr.reactjs.org/blog/2020/08/10/react-v17-rc.html)
 
 Nous pouvons observer que la 16.9 introduit des déprécations en warning, que la 16.13 ajoute encore des warnings de dépréciation et que sur la 17.0 les warnings deviennent des erreurs parce que passent obsolètes. Les feuilles de routes sont donc à suivre sur chaque version pour s'adapter syntaxiquement en vue de mettre à jour la librairie sur un projet.
 
@@ -89,8 +88,6 @@ ___
 
 ## 📑 Vue
 
-![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue.png)
-
 À la différence des autres frameworks monolithiques, Vue a été conçu et pensé pour pouvoir être adopté de manière incrémentale. Le cœur de la bibliothèque se concentre uniquement sur la partie vue. D’un autre côté, Vue est tout à fait capable de faire tourner des applications web monopages quand il est couplé avec des outils modernes et des bibliothèques complémentaires.
 
 ### 🏷️ **Utilisation**
@@ -99,7 +96,7 @@ Ce framework présuppose que vous ayez un niveau intermédiaire de connaissance 
 
 Cela ressemble assez au rendu d'un temlate, mais Vue a fait beaucoup de travail sous le capot. Les données et le DOM sont désormais liés, et tout est désormais réactif.
 
-*Template*
+* Template
 
 ```html
 <div id="components-demo">
@@ -107,7 +104,7 @@ Cela ressemble assez au rendu d'un temlate, mais Vue a fait beaucoup de travail 
 </div>
 ```
 
-*Component*
+* Component
 
 ```js
 Vue.component('button-counter', {
@@ -131,7 +128,7 @@ Le framework propose les fonctionnalité suivantes:
 * Templates
 * Routing
 
-> 🔗 vue-api: https://vuejs.org/v2/api/
+[Vue-api](https://vuejs.org/v2/api/)
 
 Pour le reste il faudra installer des packages additionnels.
 
@@ -140,18 +137,18 @@ Pour le reste il faudra installer des packages additionnels.
 La première **version stable est la 1.0.0 Evangelion** publiée le 27 Octobre 2015. Précédemment il n'y avait que des versions de développement ou candidates, dont la première était publiée en 2013.
 
 Versions:
-* 🔗 Npm: https://www.npmjs.com/package/vue
-* 🔗 Github: https://github.com/vuejs/vue/releases
+
+[Npm](https://www.npmjs.com/package/vue)
+
+[Github](https://github.com/vuejs/vue/releases)
 
 ### 🏷️ **Roadmap**
 
 Vue publie une roadmap sur github ainsi que le "request for comments process" des merges.
 
-* Roadmap: https://github.com/vuejs/vue/projects/6
-* RFCS: https://github.com/vuejs/rfcs/pulls?q=label%3A%22breaking+change%22+
-* Migration guide: https://v3.vuejs.org/guide/migration/introduction.html#breaking-changes
+[Roadmap](https://github.com/vuejs/vue/projects/6)
 
-Nous pouvons constater qu'il y a des changements syntaxiques majeurs d'une version à l'autre et une migration de la version 2 à 3 ne peut se faire dès sa sortie. Les changements syntaxiques sont importants et concernent quasi chaque fonctionnalité. Les problèmes de migration sont détaillés sur le site officiel ainsi que sur différents blogs de la communauté: https://tsh.io/blog/vue-new-features/
+Nous pouvons constater qu'il y a des changements syntaxiques majeurs d'une version à l'autre et une migration de la version 2 à 3 ne peut se faire dès sa sortie. Les changements syntaxiques sont importants et concernent quasi chaque fonctionnalité. Les problèmes de migration sont détaillés sur le site officiel ainsi que sur différents blogs de la communauté.
 
 > Concernant l'équipe de développements, les connaissances à acquérir sont les suivantes:
 
@@ -161,21 +158,19 @@ ___
 
 ## 📑 Angular
 
-![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/angular.png)
-
 À la différence des autres frameworks monolithiques, Vue a été conçu et pensé pour pouvoir être adopté de manière incrémentale. Le cœur de la bibliothèque se concentre uniquement sur la partie vue. D’un autre côté, Vue est tout à fait capable de faire tourner des applications web monopages quand il est couplé avec des outils modernes et des bibliothèques complémentaires.
 
 ### 🏷️ **Utilisation**
 
 Angular est une plate-forme et un cadre pour la création d'applications client d'une seule page à l'aide de HTML et de TypeScript. Angular est écrit en TypeScript. Il implémente les fonctionnalités de base et facultatives en tant qu'ensemble de bibliothèques TypeScript que vous importez dans vos applications.
 
-*Template*
+* Template
 
 ```html
 <my-app></my-app>
 ```
 
-*Component*
+* Component
 
 ```ts
 @Component({  
@@ -199,17 +194,18 @@ Le framework propose les fonctionnalité suivantes:
 * UI Components
 * Inversion of Control
 * IDE
-* ...
 
-> 🔗 angular-features: https://angular.io/features
+[Angular-features](https://angular.io/features)
 
 ### 🏷️ **Version**
 
 La première **version stable est la 2.0.0** publiée le 14 septembre 2016. Précédemment il n'y avait qu'une version candidate proposée l'année précédente.
 
 Versions:
-* 🔗 Npm: https://www.npmjs.com/package/@angular/core
-* 🔗 Github: https://github.com/angular/angular/releases
+
+[Npm](https://www.npmjs.com/package/@angular/core)
+
+[Github](https://github.com/angular/angular/releases)
 
 ### 🏷️ **Roadmap**
 

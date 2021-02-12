@@ -10,13 +10,11 @@ ___
 
 ## 📑 React
 
-![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react.png)
-
 ### 🏷️ **Guide**
 
-React n'a pas d'opinion sur la façon dont vous placez les fichiers dans des dossiers. Cela dit, il existe quelques approches courantes populaires dans l'écosystème que vous voudrez peut-être envisager: https://reactjs.org/docs/faq-structure.html
+React n'a pas d'opinion sur la façon dont vous placez les fichiers dans des dossiers. Cela dit, il existe quelques approches courantes populaires dans l'écosystème que vous voudrez peut-être envisager.
 
-Deux propositions d'organisation par fonctionnalité ou par type de fichier sont proposé par le framework. En l'absence de plus d'informations, de nombreux style guides sont proposés par la communauté: https://blog.bitsrc.io/structuring-a-react-project-a-definitive-guide-ac9a754df5eb
+Deux propositions d'organisation par fonctionnalité ou par type de fichier sont proposé par le framework. En l'absence de plus d'informations, de nombreux style guides sont proposés par la communauté.
 
 ![images](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/react-pro.png)
 
@@ -38,13 +36,11 @@ ___
 
 ## 📑 Vue
 
-[image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue.png)
-
 ### 🏷️ **Guide**
 
-Vuex ne restreint pas vraiment la manière dont vous structurez votre code. Il applique plutôt un ensemble de principes de haut niveau: https://vuex.vuejs.org/guide/structure.html.
+Vuex ne restreint pas vraiment la manière dont vous structurez votre code. Il applique plutôt un ensemble de principes de haut niveau.
 
-Par contre il existe un guide de style officiel pour le code spécifique à Vue. Si vous utilisez Vue dans un projet, c'est une excellente référence pour éviter les erreurs et les anti-patterns: https://vuejs.org/v2/style-guide/#Priority-B-Strongly-Recommended
+Par contre il existe un guide de style officiel pour le code spécifique à Vue. Si vous utilisez Vue dans un projet, c'est une excellente référence pour éviter les erreurs et les anti-patterns.
 
 ![images](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/vue-pro.png)
 
@@ -69,19 +65,9 @@ ___
 
 ## 📑 Angular
 
-![image](https://raw.githubusercontent.com/seeren-training/Front-End/master/wiki/resources/angular.png)
-
-Existe-t-il une méthode recommandée pour structurer les projets Angular?
-
 ### 🏷️ **Guide**
 
 Un coding style guide complet est disponible sur la documentation officielle.
-
-* https://angular.io/guide/styleguide#angular-coding-style-guide
-* Application structure: https://angular.io/guide/styleguide#application-structure-and-ngmodules
-* Structural style guide:
-https://angular.io/guide/styleguide#overall-structural-guidelines
-* Naming: https://angular.io/guide/styleguide#naming
 
 Le framework cadre fortement le développement en proposant des guides qui peuvent être suivit ou non. Le respect de ce guide permet aux développeurs de prendre leur marque rapidement sur un projet qu'ils découvrent en alignant les pratiques.
 
@@ -91,10 +77,6 @@ Le framework cadre fortement le développement en proposant des guides qui peuve
 
 ### 🏷️ **Stack**
 
-Angular est un framework complet et possède des dépendances internes, il y a aussi des dépendances externes sur les librairies d'observables mais basées sur des spécifications stables: https://angular.io/guide/npm-packages
+Angular est un framework complet et possède des dépendances internes, il y a aussi des dépendances externes sur les librairies d'observables mais basées sur des spécifications stables.
 
 > Angular propose un standard de développement et peu de dépendances pour pouvoir maintenir une application sans difficulté.
-
-___
-
-> Nous allons essayer chacune de ces technologies pour se faire un avis concret
